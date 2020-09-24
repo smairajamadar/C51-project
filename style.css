@@ -1,0 +1,45 @@
+.bodyimg{
+    display:flex;
+    justify-content: space-between;
+    width:320px;
+}
+.bodyimg img{
+    border:2px solid black;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: blanchedalmond;
+    padding: 50px;
+    font-size:20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: blueviolet;
+}
+
+.bodyimg{
+    padding: 10px;
+    
+    margin:3px;
+    background-color: white;
+}
+
+.bodyimg{
+border: 2px salmon;
+border-radius: 50px;
+}
+
+.grid{
+    border-radius: 20px;
+    background-color: springgreen;
+    padding:20px;
+    margin:25px;
+    width: 310px;
+    
+    font-family: fantasy;
+}
+
+.orgami:hover{
+    transform: (1.2);
+}
